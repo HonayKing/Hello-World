@@ -1,2 +1,4 @@
 # Hello-World
-Just a repository
+Hello, Humans,
+
+I'm HonayKing! I like python.
